@@ -1,0 +1,21 @@
+1671473979823	geckodriver	INFO	Listening on 127.0.0.1:59865
+1671473982810	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\MURILO~1.LIM\\AppData\\Local\\Temp\\rust_mozprofileGS9CM5"
+*** You are running in headless mode.
+JavaScript error: firefox.cfg, line 1: ReferenceError: security is not defined
+1671473983871	Marionette	INFO	Marionette enabled
+1671473983880	Marionette	INFO	Listening on port 59878
+Read port: 59878
+1671473984065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MURILO~1.LIM\\AppData\\Local\\Temp\\rust_mozprofileGS9CM5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ssd.mec.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ssd.mec.gov.br."
+1671473999584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671473999819	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671474000069	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1671474000334	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://sisfies.mec.gov.br."
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement

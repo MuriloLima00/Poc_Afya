@@ -1,0 +1,12 @@
+botcity-framework-core>=0.4.0,<1.0
+botcity-framework-web>=0.7.0,<1.0
+botcity-maestro-sdk>=0.2.0,<1.0
+anticaptchaofficial==1.0.45
+openpyxl==3.0.10
+pandas==1.5.2
+pyodbc==4.0.35
+xlrd==2.0.1
+# Uncomment to use botcity-utils
+#botcity-utils>=0.1.2
+# Uncomment to use botcity-crawler-plugin
+#botcity-crawler-plugin
